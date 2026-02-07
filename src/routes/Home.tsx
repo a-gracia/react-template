@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 
-const App = () => {
+const Home = () => {
   return (
     <div>
       <h1>Hello from the main page of the app!</h1>
@@ -16,4 +16,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Home;
